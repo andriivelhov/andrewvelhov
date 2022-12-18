@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrewvelhov
 - 👀 I’m Web Deveoper.
-- 🌱 Currently wokring on some Laravel and Vue projects.
+- 🌱 Currently working on some Laravel and Vue projects.
 - 📫 Reach me: via Email a.velhov@gmail.com 
 
 <!---
