@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andrewvelhov
-- 👀 I’m interested in Web Deveopment
-- 🌱 I’m currently learning PHP, Laravel, adn JavaScript.
-- 📫 How to reach me: via Email a.velhov@gmail.com 
+- 👀 I’m Web Deveoper.
+- 🌱 Currently wokring on some Laravel and Vue projects.
+- 📫 Reach me: via Email a.velhov@gmail.com 
 
 <!---
 andrewvelhov/andrewvelhov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
